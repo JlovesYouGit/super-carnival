@@ -1,0 +1,132 @@
+{
+  "sessions": {
+    "3bae568c-a733-4ea3-8012-63589d886e13": {
+      "session_id": "3bae568c-a733-4ea3-8012-63589d886e13",
+      "user_id": "user_001",
+      "created_at": 1781821863.7880328,
+      "last_activity": 1781821863.7880328,
+      "status": "active",
+      "data": {},
+      "interference_count": 0
+    },
+    "c53058a5-a89c-4f09-acc5-053cb156f495": {
+      "session_id": "c53058a5-a89c-4f09-acc5-053cb156f495",
+      "user_id": "user_001",
+      "created_at": 1781823105.4721973,
+      "last_activity": 1781823105.4721973,
+      "status": "active",
+      "data": {},
+      "interference_count": 0
+    },
+    "75e09a0c-02ed-4368-b6b4-41a06aa837a9": {
+      "session_id": "75e09a0c-02ed-4368-b6b4-41a06aa837a9",
+      "user_id": "user_001",
+      "created_at": 1781823213.469719,
+      "last_activity": 1781823213.469719,
+      "status": "active",
+      "data": {},
+      "interference_count": 0
+    },
+    "5f140dfa-c832-4757-9b59-4325c2fa31b5": {
+      "session_id": "5f140dfa-c832-4757-9b59-4325c2fa31b5",
+      "user_id": "user_001",
+      "created_at": 1781823332.1607556,
+      "last_activity": 1781823332.1607556,
+      "status": "active",
+      "data": {},
+      "interference_count": 0
+    },
+    "f5f87465-a3f2-4729-a81d-3aea2b277e6f": {
+      "session_id": "f5f87465-a3f2-4729-a81d-3aea2b277e6f",
+      "user_id": "user_001",
+      "created_at": 1781823420.576526,
+      "last_activity": 1781823420.576526,
+      "status": "active",
+      "data": {},
+      "interference_count": 0
+    },
+    "1068be2d-7515-4443-81fc-9c170431f28b": {
+      "session_id": "1068be2d-7515-4443-81fc-9c170431f28b",
+      "user_id": "user_001",
+      "created_at": 1781823758.040217,
+      "last_activity": 1781823758.040217,
+      "status": "active",
+      "data": {},
+      "interference_count": 0
+    },
+    "3ecc2ed0-685a-412d-833a-6f2d5b792830": {
+      "session_id": "3ecc2ed0-685a-412d-833a-6f2d5b792830",
+      "user_id": "user_001",
+      "created_at": 1781823865.2114441,
+      "last_activity": 1781823865.2114441,
+      "status": "active",
+      "data": {},
+      "interference_count": 0
+    },
+    "5d9c2420-375c-4fb3-b0e0-aa1920936c09": {
+      "session_id": "5d9c2420-375c-4fb3-b0e0-aa1920936c09",
+      "user_id": "user_001",
+      "created_at": 1781823959.0550385,
+      "last_activity": 1781823959.0550385,
+      "status": "active",
+      "data": {},
+      "interference_count": 0
+    },
+    "ab3602d6-501b-46ef-a811-2ccf5455bbdb": {
+      "session_id": "ab3602d6-501b-46ef-a811-2ccf5455bbdb",
+      "user_id": "user_001",
+      "created_at": 1781824106.7434566,
+      "last_activity": 1781824106.7434566,
+      "status": "active",
+      "data": {},
+      "interference_count": 0
+    },
+    "70630294-27c8-4534-853a-54b15133f334": {
+      "session_id": "70630294-27c8-4534-853a-54b15133f334",
+      "user_id": "user_001",
+      "created_at": 1781824264.9686172,
+      "last_activity": 1781824264.9686172,
+      "status": "active",
+      "data": {},
+      "interference_count": 0
+    },
+    "84cc1615-6ceb-4935-97af-afbce317956f": {
+      "session_id": "84cc1615-6ceb-4935-97af-afbce317956f",
+      "user_id": "user_001",
+      "created_at": 1781824628.1376626,
+      "last_activity": 1781824628.1376626,
+      "status": "active",
+      "data": {},
+      "interference_count": 0
+    },
+    "57c236a4-b3bd-4d5b-b96f-caaeeee1f1be": {
+      "session_id": "57c236a4-b3bd-4d5b-b96f-caaeeee1f1be",
+      "user_id": "user_001",
+      "created_at": 1781825290.6188433,
+      "last_activity": 1781825290.6188433,
+      "status": "active",
+      "data": {},
+      "interference_count": 0
+    },
+    "51e0e2d8-647f-4939-9126-f1186e06c3fc": {
+      "session_id": "51e0e2d8-647f-4939-9126-f1186e06c3fc",
+      "user_id": "user_001",
+      "created_at": 1781826090.0983503,
+      "last_activity": 1781826090.0983503,
+      "status": "active",
+      "data": {},
+      "interference_count": 0
+    },
+    "2d6fbe05-693f-4701-a794-aa2e3312e544": {
+      "session_id": "2d6fbe05-693f-4701-a794-aa2e3312e544",
+      "user_id": "user_001",
+      "created_at": 1781828079.7929447,
+      "last_activity": 1781828079.793451,
+      "status": "active",
+      "data": {},
+      "interference_count": 0
+    }
+  },
+  "session_count": 14,
+  "saved_at": 1781828079.793451
+}

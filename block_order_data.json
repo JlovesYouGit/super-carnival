@@ -1,0 +1,219 @@
+{
+  "blocks": {
+    "block_1781821863": {
+      "block_id": "block_1781821863",
+      "data": {
+        "seed": "5ba30e77431b06e2",
+        "original_size": 351,
+        "compressed_size": 229,
+        "compressed_data": "789c35905b4ac4401045b732e45b42bd1f6e4524844c844092199c561071ef5622fe5d0ea7b97debbb5bdafc3eb6e5b60fcbb57bbe74dbb854fc87ddd3a56bb736aec3f435adf3a30c022838afe3fd315f87b66c7341e881593d505d4892ccada4657f5b3fe67d2aef73ac743c7fc19ec00c30829845b944e8ddd935239c3c38430e2616515a7a14974c3e20a5121e2e3b46853f2654a586289e967432503254330b41e58803628a508812a7a79f1e6a88bb25b05699f9598284860e5415490a9627140d120843c8fa4cc6eb719b9aff68e376af6558f383308cfb605408f9f9057c7955fc",
+        "compression_ratio": 0.6524216524216524,
+        "timestamp": 1781821863.8356006,
+        "block_type": "pattern_data"
+      },
+      "order_position": 0,
+      "added_at": 1781821863.8356006
+    },
+    "block_1781823105": {
+      "block_id": "block_1781823105",
+      "data": {
+        "seed": "5c5d334bad4d2881",
+        "original_size": 351,
+        "compressed_size": 229,
+        "compressed_data": "789c35d0dd4ac4301005e057597a2d65fe67e2ab8894d28d1068bb8b1b0511dfdd69c5bbe1e39c2493efa1f5fa3ef776dba7761d9e2fc336b71cff7178ba0cfdd6e7755abe96b53e32410089759def8f7a9d7adb6a228c40a59031004804059266aaed6feb47dd970c7ece391dfd171c438b8b902b8394ccc1e8620988668c6e6c87a917b1000c4720343aec6cb91516c408333990118c80c1890882f84422372b22e2f92a738e03b11869a0822b393bfa99cce34f235156e73328257b2e2aa14cee7f66e1a4e60aa5a4bf1e7f93eb3ffabcdd7331f4c0bc1d4147450ad5f8f9053732559d",
+        "compression_ratio": 0.6524216524216524,
+        "timestamp": 1781823105.515863,
+        "block_type": "pattern_data"
+      },
+      "order_position": 1,
+      "added_at": 1781823105.515863
+    },
+    "block_1781823213": {
+      "block_id": "block_1781823213",
+      "data": {
+        "seed": "475f124768bb5d0f",
+        "original_size": 353,
+        "compressed_size": 233,
+        "compressed_data": "789c35906b6ac4300c84afb2e477097a5bea554a0921eb8221c92edd6ca194debd72a0c698e1634696f433b4a37ece47bbed53bb0eaf97619b5bca7f38bc5c86e376ccebb47c2f6b7da4830012d675be3fea753ada5613c208240589495048d440355d6dff589f755fd2f835a7eaf9371cd99d08c5818a339774c2e8611c4c5a50492c3a4a1d79198b15723a9918317a00924346b933d208352f968f1b14e990914c3c38cc1841ec343259806926455c894e481298a7649eb209ef10b343c102c28216aa67490c70e32c9c203b507eefdbc9053c8e79bbe768581c3d3f411e15ac0ff3fb07ea0d5605",
+        "compression_ratio": 0.660056657223796,
+        "timestamp": 1781823213.5093331,
+        "block_type": "pattern_data"
+      },
+      "order_position": 2,
+      "added_at": 1781823213.509841
+    },
+    "block_1781823332": {
+      "block_id": "block_1781823332",
+      "data": {
+        "seed": "443bba702f3a234f",
+        "original_size": 353,
+        "compressed_size": 232,
+        "compressed_data": "789c3590dd6ac3300c465fa5e4ba14fd5af25e658c60520f0c495a166f30c6de7d72cbee3e0ee79365fd4cadd78fd2db6d9fdb757a394d5b6911ffe1743e4dfdd6cb3a2fdfcb5a8f300820605dcbfda8d7b9b7ad06840b3050024de43919b9620aabedefeb67dd9710bf4aa4d17fc54b76244024546637e173f4dd3033587403020d14c39430232b8333eb60925855c8007250f2c19822a3c7ab2620240f914dd49cb2937a9458062427481e4a4e62e28f36e618974d33c52690f809cd501c50c25393e78a6899d8451113029aeadbb84e1ce0e865bbc7d7d01c9d98992e49ddb3f8ef1fdb47560e",
+        "compression_ratio": 0.6572237960339944,
+        "timestamp": 1781823332.6621373,
+        "block_type": "pattern_data"
+      },
+      "order_position": 3,
+      "added_at": 1781823332.6621373
+    },
+    "block_1781823420": {
+      "block_id": "block_1781823420",
+      "data": {
+        "seed": "f7f375625f11ac6d",
+        "original_size": 353,
+        "compressed_size": 232,
+        "compressed_data": "789c35905b6ac3400c45b712fc1d8c347a772ba598c19982c17642ed144ae9de2bbbf44be270efd5e3bb9bf6f651f7e9be0ed3ad7bb9744b9db2fd87ddf5d2edf7bdcec3f835ce6d4b450148d8e6fad8da6dd8a7a525841e889c1dd88a286b18a5685adfe7675bc7d47dd6ec0efb2bf658c23042c4588bc535dde2ea0288a468cc520ec660e4402e2c4e8ece072c1a6286201ce909a213821ab15821cd10023920aae41c45562e14e514626e574a5e408cee28676496937a78264afcb929dc32f4a084a2278310460621cec162fa767c271fb0ed7579e46d68b9664913f4aa660af8f30bffaa561e",
+        "compression_ratio": 0.6572237960339944,
+        "timestamp": 1781823420.671929,
+        "block_type": "pattern_data"
+      },
+      "order_position": 4,
+      "added_at": 1781823420.671929
+    },
+    "block_1781823758": {
+      "block_id": "block_1781823758",
+      "data": {
+        "seed": "bd575ad6d2eb896a",
+        "original_size": 351,
+        "compressed_size": 230,
+        "compressed_data": "789c35d05b6ac3400c05d0ad047f87a0abc748ea564a092671c1e03c689c4229dd7b35a6fd99110769b89aef615ea78f719d6fd7e37c1e5e76c3659cabfcc761bf1bd6db3a2ec7d3d769991ed5c14485d332de1fd3f9b8ce97a9900ec416a6a20969626c5a4df3f57d794ed753f57d8e55f5f1573e908333a80543bcae7d8d7b36b348283cb831ba35b873a4809cd442baa94ba2c08188cccd8429600873154bb7cd3c7b1ac02b586bd98d93ab09696e24a2ba9968f4286e0c54c91b129438410c3531f33f248d7abf0ee18af9d6ffa6d67face3e55e9b152158dce200248be0e71746ca5597",
+        "compression_ratio": 0.6552706552706553,
+        "timestamp": 1781823758.122743,
+        "block_type": "pattern_data"
+      },
+      "order_position": 5,
+      "added_at": 1781823758.122743
+    },
+    "block_1781823865": {
+      "block_id": "block_1781823865",
+      "data": {
+        "seed": "aaecaa16b1a76fa0",
+        "original_size": 352,
+        "compressed_size": 231,
+        "compressed_data": "789c35d05b6ac3400c05d0ad047f07a3c7e8d5ad94628c338501db09b55328a57baf6c5a980f71b85730faeeda5e3fc6bdddd7a1ddba974bb78c2dc77fecae976ebfefe33c4c5fd35cb74c1040629dc7c7566fc3de969a083d9063a122441c11405c32d5d6f7f959d729839f634e47ff15fb284e110e88aa08a0d7ec7b312257083167d3d324381fe4325609e3c30a0982736a0451c133c868620c81ca8411fa8762c4c224a04e648791836151577413f633978de2ecc44045cde930548bc8a5aa86824a7e6210a006029a8b1796b7e33a79806d1f97477e2d1d738fabf4241e823fbf933755e4",
+        "compression_ratio": 0.65625,
+        "timestamp": 1781823865.261465,
+        "block_type": "pattern_data"
+      },
+      "order_position": 6,
+      "added_at": 1781823865.261465
+    },
+    "block_1781823959": {
+      "block_id": "block_1781823959",
+      "data": {
+        "seed": "955a98db00074095",
+        "original_size": 355,
+        "compressed_size": 234,
+        "compressed_data": "789c3590516ac4300c44afb2e47b09922c5952af524a30591702497669dc4229bd7be52cfd31f2f30ce3d1cfb0b4fa51da72dfa7e536bc5c86ad2c31fec3e17a19dabd95759abfe7b51ea1208080752d8fa3dea6b66c35208c40a6e62a968d48c05543b5ecefeb67dde7107e9598baff154734465646744d8646d7f04b8a1b0921032abb77c6e8249c51e250cc893b4c904863a62c42847442a2c4c2184fec06acd221aa222993ba64b1844f0614c11972a4834b3a219a87475881c1fc198e981000cd9419129c0c1c7a80a21246554a6f7d3fb182a395ed11e5507b9fe4e26398257efffb078f755651",
+        "compression_ratio": 0.6591549295774648,
+        "timestamp": 1781823959.1030848,
+        "block_type": "pattern_data"
+      },
+      "order_position": 7,
+      "added_at": 1781823959.1040833
+    },
+    "block_1781824106": {
+      "block_id": "block_1781824106",
+      "data": {
+        "seed": "261c32f8e6ad9f09",
+        "original_size": 351,
+        "compressed_size": 230,
+        "compressed_data": "789c35905b6ac3301045b712fc1dc2bc67d4ad946284a382c17642a3164ae9de3b76e89786a37b245dfd0c736f1fb5cfb76d9cafc3cb6958eb9ce33f1ccea7a1df7a5dc6e97b5ada23130490b02df5fe68d7b1cf6b4b081760318e08b460966298a1797b5f3edb3665eeabe6b4ebaf78710d41272c8010764e392035a4024222ecbc3375704553e51073979d7110894529a04166f664c0ae0991cdc3e590994a49376f70540c3b6c6251c817aa2576137a4225472ea626ea1c0703012a4caa90d9dcdb619e52d22d5e90301bd2dbfe3759ffd1eb7acf66e881418260d927578bdf3f56bf55bb",
+        "compression_ratio": 0.6552706552706553,
+        "timestamp": 1781824106.8044212,
+        "block_type": "pattern_data"
+      },
+      "order_position": 8,
+      "added_at": 1781824106.8054807
+    },
+    "block_1781824265": {
+      "block_id": "block_1781824265",
+      "data": {
+        "seed": "6920c85fb142cbdc",
+        "original_size": 351,
+        "compressed_size": 229,
+        "compressed_data": "789c35905d6a03310c84af12f63904fd59967a955216b371c1b0bb098d5b28a577afbca10f86f1c78c06e9676abd7e94de6efbdcaed3cb69da4a0bf90fa7f369eab75ed679f95ed6fa08070104ac6bb93fea75ee6dab01e1026486cc4a48988c80c3d4f6f7f5b3ee4bf8be4aa8117fc50ba3a193e561534139473c91a708937b56653d1803e6909e242b264d4f064ece608993c494c148400498d41895458ef06840cf09389900d193a191c4a8e83500d103aac48f1d402113f1c1222dc486597cbca33a8a4313ab9a67007e1bb789f51fbd6cf7d80cb38df1a4298e01c46ebf7f21be5561",
+        "compression_ratio": 0.6524216524216524,
+        "timestamp": 1781824265.0223227,
+        "block_type": "pattern_data"
+      },
+      "order_position": 9,
+      "added_at": 1781824265.0223227
+    },
+    "block_1781824628": {
+      "block_id": "block_1781824628",
+      "data": {
+        "seed": "ede748497f444a76",
+        "original_size": 350,
+        "compressed_size": 230,
+        "compressed_data": "789c3590db4ac43010865f65e9b594cc3133be8a4809dd0881b6bbb85110f1dd9d54bc093f5fbecc21df53ebf5bdf4763b96769d9e2fd35e5ac47f383d5da67eeb655bd6af75ab8f3030a580752bf747bd2ebded35609a131a83b3b3a279529490daf1b67dd4630defb3441acf5f60664105032597ac1a629a159ddcd15d0c597d2046d42019911928ff7994598d909444240bd380e8a0c29973124bc67632e198874c592c220c06ee6026209a38eee9ac08d901a21602c7a1f9644a19291c6555f6b3c9a8e5c2989d933a38be8eaf89ed1fbdecf7580cb2c1181e6d067352c39f5f1d6155bd",
+        "compression_ratio": 0.6571428571428571,
+        "timestamp": 1781824628.192708,
+        "block_type": "pattern_data"
+      },
+      "order_position": 10,
+      "added_at": 1781824628.192708
+    },
+    "block_1781825290": {
+      "block_id": "block_1781825290",
+      "data": {
+        "seed": "6badd6a314e1d1ee",
+        "original_size": 350,
+        "compressed_size": 232,
+        "compressed_data": "789c35905b6ac3400c45b712fc1d8246d2e8d1ad94628ce382c176423d2994d2bdf73aa57fd2992369a4ef6e6ed3c7d0e6dbd6cfd7eee5d4adc38cf01f76e753d76e6d58faf16b5ca61d0613014ecb70dfa76bdfe67502a40b0945615712aec9eea2b0e6ed7d794cdb08f1734074d4bf968babd42075662aa971467950550bb1d4aae8530f66c159c3b9144e31e283a990b932d56a02af1c0c01a9305a648a50da13c2b38c92c52313c20159b564b2222d16ca7fcc284298138feef964e26968003faa3db5121ac83085dca3b2bd1da7c1f67b1bd63bf6c29c125c39f171af3880fdfc02e432557a",
+        "compression_ratio": 0.6628571428571428,
+        "timestamp": 1781825290.6792881,
+        "block_type": "pattern_data"
+      },
+      "order_position": 11,
+      "added_at": 1781825290.680448
+    },
+    "block_1781826090": {
+      "block_id": "block_1781826090",
+      "data": {
+        "seed": "17db59967de814a8",
+        "original_size": 356,
+        "compressed_size": 231,
+        "compressed_data": "789c3590db6a84000c447f65f17991dc2ffd9552445c0b82ba4bb58552faef8d2e7d1b4e66c2243fcdb48f1ffd3eddd76eba352f9766e9a792ffb0b95e9afdbef773377c0ff3b89583000a8e73ffd8c65bb74fcb58105a60115249075550762cd3b4becf9fe33a94efab2f75c45fa18dccf224846904855f2b2e2aa2494ce668826207e47226a361900901f201293da282e884a21407c3e49a22716155123da170ba249306714a3c9dce61190ce1c8164227244530ac6569ec9afe8495ae3e60026aa6724254d6dae7e86925f0ed7850fd60dbfbe551e7a1c7d1b6ae6b8528abf7ef1f04e756ce",
+        "compression_ratio": 0.648876404494382,
+        "timestamp": 1781826090.4264395,
+        "block_type": "pattern_data"
+      },
+      "order_position": 12,
+      "added_at": 1781826090.4264395
+    },
+    "block_1781828080": {
+      "block_id": "block_1781828080",
+      "data": {
+        "seed": "8adf0397bbddc2cd",
+        "original_size": 351,
+        "compressed_size": 232,
+        "compressed_data": "789c3590596ac3500c45b712fc5dcc95f434752ba50493b86070061aa7504af75e3d43ffc4e14857d2cfb06cf3e7b42db7eb71390faf87e1322d55fec3e1e5306cb76d5a8fa7efd33a3fca60a0e0bc4ef7c77c3e6ecb652e8811224876714a0fd78c9296ebc7fa9cafa7f2bea6aa7afb1b8dcd5a0897a791daa84c8c296e9086240d4376a4cd328d33290316bbd6007724548841619d89683444534e0e11d31d729370735680c9b93366f7740e65d496acfb442eadc25b239842ac75485e01140990a5629f48ca9c5afdae6622c9effd3775fe639b2ef7ba8c3c283810f58cecf1fafb0768bd55ca",
+        "compression_ratio": 0.6609686609686609,
+        "timestamp": 1781828080.0950315,
+        "block_type": "pattern_data"
+      },
+      "order_position": 13,
+      "added_at": 1781828080.0950315
+    }
+  },
+  "block_order": [
+    "block_1781821863",
+    "block_1781823105",
+    "block_1781823213",
+    "block_1781823332",
+    "block_1781823420",
+    "block_1781823758",
+    "block_1781823865",
+    "block_1781823959",
+    "block_1781824106",
+    "block_1781824265",
+    "block_1781824628",
+    "block_1781825290",
+    "block_1781826090",
+    "block_1781828080"
+  ],
+  "parameter_sets": {},
+  "recollections": {},
+  "saved_at": 1781828080.0950315
+}

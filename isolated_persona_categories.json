@@ -1,0 +1,31 @@
+{
+  "persona_categories": {
+    "persona_1": {
+      "category_id": "persona_1",
+      "locked": true
+    },
+    "persona_2": {
+      "category_id": "persona_2",
+      "locked": true
+    }
+  },
+  "model_weights": {
+    "persona_1": {
+      "weights": {
+        "weight_1": 0.5,
+        "weight_2": 0.7
+      },
+      "locked": true,
+      "locked_at": 1781828080.1534393
+    },
+    "persona_2": {
+      "weights": {
+        "weight_1": 0.5,
+        "weight_2": 0.7
+      },
+      "locked": true,
+      "locked_at": 1781828080.1748421
+    }
+  },
+  "saved_at": 1781828080.1748421
+}

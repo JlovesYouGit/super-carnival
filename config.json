@@ -1,0 +1,24 @@
+{
+  "target": "https://www.tiktok.com/",
+  "api_server": {
+    "host": "127.0.0.1",
+    "port": 8000,
+    "admin_password": "admin"
+  },
+  "xspace_scanner": {
+    "target_host": "www.tiktok.com",
+    "ports": [80, 443, 8080, 8443, 3000, 5000, 8000, 9000],
+    "paths": ["/", "/mirror", "/.well-known/mirror", "/status", "/health", "/api", "/graphql", "/swagger", "/openapi.json"],
+    "scan_interval": 300
+  },
+  "credentials": {
+    "main_system_endpoint": "https://www.tiktok.com/",
+    "auth_token": null,
+    "admin_token": null
+  },
+  "integration": {
+    "main_system_path": "../",
+    "enable_bridge": true,
+    "auto_scan_on_startup": true
+  }
+}

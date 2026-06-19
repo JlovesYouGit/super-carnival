@@ -1,0 +1,2046 @@
+{
+  "memory_points": {
+    "memory_1781821863": {
+      "point_id": "memory_1781821863",
+      "state_data": {
+        "sequence_id": "seq_1781821863",
+        "steps": [
+          {
+            "step": "extract_endpoint_structure",
+            "endpoint": "http://example.com/api/data",
+            "structure": null,
+            "derived_sequence": [],
+            "internal_dir_info": {
+              "path": "E:/DOWNLOADs/derived-spacial",
+              "exists": false,
+              "files": [],
+              "code_execution_points": []
+            },
+            "success": false
+          },
+          {
+            "step": "create_persistent_session",
+            "session_id": "3bae568c-a733-4ea3-8012-63589d886e13",
+            "user_id": "user_001",
+            "session_count": 1,
+            "is_exceeding_one": false,
+            "success": true
+          },
+          {
+            "step": "create_handshake",
+            "handshake_id": "91d10a3b-4761-4ba1-a5d7-c19b5caa648e",
+            "payload": {
+              "structure": null
+            },
+            "success": true
+          },
+          {
+            "step": "process_patterns",
+            "patterns": {
+              "marker": {
+                "marker_id": "main_marker",
+                "constants": [
+                  {
+                    "name": "base_value",
+                    "value": 1.0,
+                    "hash": "e4c2e8edac362acab7123654b9e73432"
+                  },
+                  {
+                    "name": "multiplier",
+                    "value": 2.0,
+                    "hash": "d1bd83a33f1a841ab7fda32449746cc4"
+                  }
+                ],
+                "created_at": 1781821863.7938888
+              },
+              "isolated_patterns": [],
+              "structure_keys": []
+            },
+            "success": true
+          },
+          {
+            "step": "detect_neural_matches",
+            "matches": [],
+            "success": true
+          },
+          {
+            "step": "extract_entropy_subspace",
+            "extraction": {
+              "subspace_id": "main_subspace",
+              "total_entropy": 3.1036434684967853,
+              "elapsed_time": 10.0,
+              "extraction_rate": 0.3103643468496785,
+              "timestamp": 1781821863.7964215
+            },
+            "total_entropy": 3.1036434684967853,
+            "success": true
+          },
+          {
+            "step": "run_pattern_iteration",
+            "iteration_data": {
+              "iteration_id": "main_iteration",
+              "total_cycles": 200,
+              "elapsed_time": 0.03357815742492676,
+              "influenced_values": [
+                1.206601882334536,
+                0.7737598872783984,
+                0.46880189788874993,
+                0.2952137593718137,
+                0.2942249611479692,
+                0.20526156668415388,
+                0.194428452397972,
+                0.15847769035801673,
+                0.12161702718925069,
+                0.14582408610999398
+              ],
+              "timestamp": 1781821863.8315084
+            },
+            "persona_categories": [
+              "persona_1",
+              "persona_2"
+            ],
+            "success": true
+          },
+          {
+            "step": "compress_and_order_data",
+            "compressed_block": {
+              "seed": "5ba30e77431b06e2",
+              "original_size": 351,
+              "compressed_size": 229,
+              "compressed_data": "789c35905b4ac4401045b732e45b42bd1f6e4524844c844092199c561071ef5622fe5d0ea7b97debbb5bdafc3eb6e5b60fcbb57bbe74dbb854fc87ddd3a56bb736aec3f435adf3a30c022838afe3fd315f87b66c7341e881593d505d4892ccada4657f5b3fe67d2aef73ac743c7fc19ec00c30829845b944e8ddd935239c3c38430e2616515a7a14974c3e20a5121e2e3b46853f2654a586289e967432503254330b41e58803628a508812a7a79f1e6a88bb25b05699f9598284860e5415490a9627140d120843c8fa4cc6eb719b9aff68e376af6558f383308cfb605408f9f9057c7955fc",
+              "compression_ratio": 0.6524216524216524,
+              "timestamp": 1781821863.8356006,
+              "block_type": "pattern_data"
+            },
+            "block_id": "block_1781821863",
+            "success": true
+          },
+          {
+            "step": "create_isolated_json",
+            "categories_locked": [
+              "persona_1",
+              "persona_2"
+            ],
+            "success": true
+          },
+          {
+            "step": "process_weights",
+            "weight_classes": [
+              "weight_persona_1",
+              "weight_persona_2"
+            ],
+            "success": true
+          }
+        ],
+        "timestamp": 1781821863.593237
+      },
+      "weight_states": {},
+      "pattern_states": {},
+      "created_at": 1781821863.9137964,
+      "saved_at": 1781821863.920434
+    },
+    "memory_1781823105": {
+      "point_id": "memory_1781823105",
+      "state_data": {
+        "sequence_id": "seq_1781823105",
+        "steps": [
+          {
+            "step": "extract_endpoint_structure",
+            "endpoint": "http://example.com/api/data",
+            "structure": null,
+            "derived_sequence": [],
+            "internal_dir_info": {
+              "path": "E:/DOWNLOADs/derived-spacial",
+              "exists": false,
+              "files": [],
+              "code_execution_points": []
+            },
+            "success": false
+          },
+          {
+            "step": "create_persistent_session",
+            "session_id": "c53058a5-a89c-4f09-acc5-053cb156f495",
+            "user_id": "user_001",
+            "session_count": 2,
+            "is_exceeding_one": true,
+            "success": true
+          },
+          {
+            "step": "create_handshake",
+            "handshake_id": "f93411b9-5e0a-4b13-8414-02deb30bf950",
+            "payload": {
+              "structure": null
+            },
+            "success": true
+          },
+          {
+            "step": "process_patterns",
+            "patterns": {
+              "marker": {
+                "marker_id": "main_marker",
+                "constants": [
+                  {
+                    "name": "base_value",
+                    "value": 1.0,
+                    "hash": "e4c2e8edac362acab7123654b9e73432"
+                  },
+                  {
+                    "name": "multiplier",
+                    "value": 2.0,
+                    "hash": "d1bd83a33f1a841ab7fda32449746cc4"
+                  }
+                ],
+                "created_at": 1781823105.4794135
+              },
+              "isolated_patterns": [],
+              "structure_keys": []
+            },
+            "success": true
+          },
+          {
+            "step": "detect_neural_matches",
+            "matches": [],
+            "success": true
+          },
+          {
+            "step": "extract_entropy_subspace",
+            "extraction": {
+              "subspace_id": "main_subspace",
+              "total_entropy": 3.1036434684967853,
+              "elapsed_time": 10.0,
+              "extraction_rate": 0.3103643468496785,
+              "timestamp": 1781823105.48193
+            },
+            "total_entropy": 3.1036434684967853,
+            "success": true
+          },
+          {
+            "step": "run_pattern_iteration",
+            "iteration_data": {
+              "iteration_id": "main_iteration",
+              "total_cycles": 200,
+              "elapsed_time": 0.029926300048828125,
+              "influenced_values": [
+                1.85974427530495,
+                0.7464421166317636,
+                0.5794680187102162,
+                0.44275769341188664,
+                0.31062030722208234,
+                0.22766944472636738,
+                0.19625815075273717,
+                0.2102815072453573,
+                0.1497267454853277,
+                0.1468725675099485
+              ],
+              "timestamp": 1781823105.5128558
+            },
+            "persona_categories": [
+              "persona_1",
+              "persona_2"
+            ],
+            "success": true
+          },
+          {
+            "step": "compress_and_order_data",
+            "compressed_block": {
+              "seed": "5c5d334bad4d2881",
+              "original_size": 351,
+              "compressed_size": 229,
+              "compressed_data": "789c35d0dd4ac4301005e057597a2d65fe67e2ab8894d28d1068bb8b1b0511dfdd69c5bbe1e39c2493efa1f5fa3ef776dba7761d9e2fc336b71cff7178ba0cfdd6e7755abe96b53e32410089759def8f7a9d7adb6a228c40a59031004804059266aaed6feb47dd970c7ece391dfd171c438b8b902b8394ccc1e8620988668c6e6c87a917b1000c4720343aec6cb91516c408333990118c80c1890882f84422372b22e2f92a738e03b11869a0822b393bfa99cce34f235156e73328257b2e2aa14cee7f66e1a4e60aa5a4bf1e7f93eb3ffabcdd7331f4c0bc1d4147450ad5f8f9053732559d",
+              "compression_ratio": 0.6524216524216524,
+              "timestamp": 1781823105.515863,
+              "block_type": "pattern_data"
+            },
+            "block_id": "block_1781823105",
+            "success": true
+          },
+          {
+            "step": "create_isolated_json",
+            "categories_locked": [
+              "persona_1",
+              "persona_2"
+            ],
+            "success": true
+          },
+          {
+            "step": "process_weights",
+            "weight_classes": [
+              "weight_persona_1",
+              "weight_persona_2"
+            ],
+            "success": true
+          }
+        ],
+        "timestamp": 1781823105.2418115
+      },
+      "weight_states": {},
+      "pattern_states": {},
+      "created_at": 1781823105.5619998,
+      "saved_at": 1781823105.5967667
+    },
+    "memory_1781823213": {
+      "point_id": "memory_1781823213",
+      "state_data": {
+        "sequence_id": "seq_1781823213",
+        "steps": [
+          {
+            "step": "extract_endpoint_structure",
+            "endpoint": "http://example.com/api/data",
+            "structure": null,
+            "derived_sequence": [],
+            "internal_dir_info": {
+              "path": "E:/DOWNLOADs/derived-spacial",
+              "exists": false,
+              "files": [],
+              "code_execution_points": []
+            },
+            "success": false
+          },
+          {
+            "step": "create_persistent_session",
+            "session_id": "75e09a0c-02ed-4368-b6b4-41a06aa837a9",
+            "user_id": "user_001",
+            "session_count": 3,
+            "is_exceeding_one": true,
+            "success": true
+          },
+          {
+            "step": "create_handshake",
+            "handshake_id": "555012ea-8db0-4aef-b4d1-e064141c164e",
+            "payload": {
+              "structure": null
+            },
+            "success": true
+          },
+          {
+            "step": "process_patterns",
+            "patterns": {
+              "marker": {
+                "marker_id": "main_marker",
+                "constants": [
+                  {
+                    "name": "base_value",
+                    "value": 1.0,
+                    "hash": "e4c2e8edac362acab7123654b9e73432"
+                  },
+                  {
+                    "name": "multiplier",
+                    "value": 2.0,
+                    "hash": "d1bd83a33f1a841ab7fda32449746cc4"
+                  }
+                ],
+                "created_at": 1781823213.4779556
+              },
+              "isolated_patterns": [],
+              "structure_keys": []
+            },
+            "success": true
+          },
+          {
+            "step": "detect_neural_matches",
+            "matches": [],
+            "success": true
+          },
+          {
+            "step": "extract_entropy_subspace",
+            "extraction": {
+              "subspace_id": "main_subspace",
+              "total_entropy": 3.1036434684967853,
+              "elapsed_time": 10.0,
+              "extraction_rate": 0.3103643468496785,
+              "timestamp": 1781823213.4810548
+            },
+            "total_entropy": 3.1036434684967853,
+            "success": true
+          },
+          {
+            "step": "run_pattern_iteration",
+            "iteration_data": {
+              "iteration_id": "main_iteration",
+              "total_cycles": 200,
+              "elapsed_time": 0.024712324142456055,
+              "influenced_values": [
+                1.3882214802783375,
+                0.896393257152469,
+                0.5719719317672829,
+                0.4623189012803373,
+                0.25995687656886074,
+                0.3126489396631046,
+                0.23269065033448522,
+                0.22491111776529638,
+                0.18824170434169554,
+                0.19086331295590153
+              ],
+              "timestamp": 1781823213.5063257
+            },
+            "persona_categories": [
+              "persona_1",
+              "persona_2"
+            ],
+            "success": true
+          },
+          {
+            "step": "compress_and_order_data",
+            "compressed_block": {
+              "seed": "475f124768bb5d0f",
+              "original_size": 353,
+              "compressed_size": 233,
+              "compressed_data": "789c35906b6ac4300c84afb2e477097a5bea554a0921eb8221c92edd6ca194debd72a0c698e1634696f433b4a37ece47bbed53bb0eaf97619b5bca7f38bc5c86e376ccebb47c2f6b7da4830012d675be3fea753ada5613c208240589495048d440355d6dff589f755fd2f835a7eaf9371cd99d08c5818a339774c2e8611c4c5a50492c3a4a1d79198b15723a9918317a00924346b933d208352f968f1b14e990914c3c38cc1841ec343259806926455c894e481298a7649eb209ef10b343c102c28216aa67490c70e32c9c203b507eefdbc9053c8e79bbe768581c3d3f411e15ac0ff3fb07ea0d5605",
+              "compression_ratio": 0.660056657223796,
+              "timestamp": 1781823213.5093331,
+              "block_type": "pattern_data"
+            },
+            "block_id": "block_1781823213",
+            "success": true
+          },
+          {
+            "step": "create_isolated_json",
+            "categories_locked": [
+              "persona_1",
+              "persona_2"
+            ],
+            "success": true
+          },
+          {
+            "step": "process_weights",
+            "weight_classes": [
+              "weight_persona_1",
+              "weight_persona_2"
+            ],
+            "success": true
+          }
+        ],
+        "timestamp": 1781823213.2579017
+      },
+      "weight_states": {},
+      "pattern_states": {},
+      "created_at": 1781823213.5541956,
+      "saved_at": 1781823213.625002
+    },
+    "memory_1781823332": {
+      "point_id": "memory_1781823332",
+      "state_data": {
+        "sequence_id": "seq_1781823331",
+        "steps": [
+          {
+            "step": "extract_endpoint_structure",
+            "endpoint": "http://example.com/api/data",
+            "structure": null,
+            "derived_sequence": [],
+            "internal_dir_info": {
+              "path": "E:/DOWNLOADs/derived-spacial",
+              "exists": false,
+              "files": [],
+              "code_execution_points": []
+            },
+            "success": false
+          },
+          {
+            "step": "create_persistent_session",
+            "session_id": "5f140dfa-c832-4757-9b59-4325c2fa31b5",
+            "user_id": "user_001",
+            "session_count": 4,
+            "is_exceeding_one": true,
+            "success": true
+          },
+          {
+            "step": "create_handshake",
+            "handshake_id": "95748713-d6d9-4e99-aee2-5dc4e9fce265",
+            "payload": {
+              "structure": null
+            },
+            "success": true
+          },
+          {
+            "step": "process_patterns",
+            "patterns": {
+              "marker": {
+                "marker_id": "main_marker",
+                "constants": [
+                  {
+                    "name": "base_value",
+                    "value": 1.0,
+                    "hash": "e4c2e8edac362acab7123654b9e73432"
+                  },
+                  {
+                    "name": "multiplier",
+                    "value": 2.0,
+                    "hash": "d1bd83a33f1a841ab7fda32449746cc4"
+                  }
+                ],
+                "created_at": 1781823332.6265893
+              },
+              "isolated_patterns": [],
+              "structure_keys": []
+            },
+            "success": true
+          },
+          {
+            "step": "detect_neural_matches",
+            "matches": [],
+            "success": true
+          },
+          {
+            "step": "extract_entropy_subspace",
+            "extraction": {
+              "subspace_id": "main_subspace",
+              "total_entropy": 3.1036434684967853,
+              "elapsed_time": 10.0,
+              "extraction_rate": 0.3103643468496785,
+              "timestamp": 1781823332.6286342
+            },
+            "total_entropy": 3.1036434684967853,
+            "success": true
+          },
+          {
+            "step": "run_pattern_iteration",
+            "iteration_data": {
+              "iteration_id": "main_iteration",
+              "total_cycles": 200,
+              "elapsed_time": 0.030260562896728516,
+              "influenced_values": [
+                1.9812011215338743,
+                0.871930767253302,
+                0.5625219135308335,
+                0.4635542700953028,
+                0.32953187287404245,
+                0.37457829825846334,
+                0.2820684249647488,
+                0.19427975927430638,
+                0.17714801464757443,
+                0.17923845116101755
+              ],
+              "timestamp": 1781823332.6588948
+            },
+            "persona_categories": [
+              "persona_1",
+              "persona_2"
+            ],
+            "success": true
+          },
+          {
+            "step": "compress_and_order_data",
+            "compressed_block": {
+              "seed": "443bba702f3a234f",
+              "original_size": 353,
+              "compressed_size": 232,
+              "compressed_data": "789c3590dd6ac3300c465fa5e4ba14fd5af25e658c60520f0c495a166f30c6de7d72cbee3e0ee79365fd4cadd78fd2db6d9fdb757a394d5b6911ffe1743e4dfdd6cb3a2fdfcb5a8f300820605dcbfda8d7b9b7ad06840b3050024de43919b9620aabedefeb67dd9710bf4aa4d17fc54b76244024546637e173f4dd3033587403020d14c39430232b8333eb60925855c8007250f2c19822a3c7ab2620240f914dd49cb2937a9458062427481e4a4e62e28f36e618974d33c52690f809cd501c50c25393e78a6899d8451113029aeadbb84e1ce0e865bbc7d7d01c9d98992e49ddb3f8ef1fdb47560e",
+              "compression_ratio": 0.6572237960339944,
+              "timestamp": 1781823332.6621373,
+              "block_type": "pattern_data"
+            },
+            "block_id": "block_1781823332",
+            "success": true
+          },
+          {
+            "step": "create_isolated_json",
+            "categories_locked": [
+              "persona_1",
+              "persona_2"
+            ],
+            "success": true
+          },
+          {
+            "step": "process_weights",
+            "weight_classes": [
+              "weight_persona_1",
+              "weight_persona_2"
+            ],
+            "success": true
+          }
+        ],
+        "timestamp": 1781823331.9427006
+      },
+      "weight_states": {},
+      "pattern_states": {},
+      "created_at": 1781823332.710788,
+      "saved_at": 1781823332.8183472
+    },
+    "memory_1781823420": {
+      "point_id": "memory_1781823420",
+      "state_data": {
+        "sequence_id": "seq_1781823420",
+        "steps": [
+          {
+            "step": "extract_endpoint_structure",
+            "endpoint": "http://example.com/api/data",
+            "structure": null,
+            "derived_sequence": [],
+            "internal_dir_info": {
+              "path": "E:/DOWNLOADs/derived-spacial",
+              "exists": false,
+              "files": [],
+              "code_execution_points": []
+            },
+            "success": false
+          },
+          {
+            "step": "create_persistent_session",
+            "session_id": "f5f87465-a3f2-4729-a81d-3aea2b277e6f",
+            "user_id": "user_001",
+            "session_count": 5,
+            "is_exceeding_one": true,
+            "success": true
+          },
+          {
+            "step": "create_handshake",
+            "handshake_id": "9f526434-a9c6-4ea1-a795-202b88c12c33",
+            "payload": {
+              "structure": null
+            },
+            "success": true
+          },
+          {
+            "step": "process_patterns",
+            "patterns": {
+              "marker": {
+                "marker_id": "main_marker",
+                "constants": [
+                  {
+                    "name": "base_value",
+                    "value": 1.0,
+                    "hash": "e4c2e8edac362acab7123654b9e73432"
+                  },
+                  {
+                    "name": "multiplier",
+                    "value": 2.0,
+                    "hash": "d1bd83a33f1a841ab7fda32449746cc4"
+                  }
+                ],
+                "created_at": 1781823420.6302078
+              },
+              "isolated_patterns": [],
+              "structure_keys": []
+            },
+            "success": true
+          },
+          {
+            "step": "detect_neural_matches",
+            "matches": [],
+            "success": true
+          },
+          {
+            "step": "extract_entropy_subspace",
+            "extraction": {
+              "subspace_id": "main_subspace",
+              "total_entropy": 3.1036434684967853,
+              "elapsed_time": 10.0,
+              "extraction_rate": 0.3103643468496785,
+              "timestamp": 1781823420.6333804
+            },
+            "total_entropy": 3.1036434684967853,
+            "success": true
+          },
+          {
+            "step": "run_pattern_iteration",
+            "iteration_data": {
+              "iteration_id": "main_iteration",
+              "total_cycles": 200,
+              "elapsed_time": 0.03384804725646973,
+              "influenced_values": [
+                1.129719955746279,
+                0.5868501136174452,
+                0.40738038545838184,
+                0.26957710549586933,
+                0.20673457236501305,
+                0.1652976146423923,
+                0.17252220034188154,
+                0.15425222898869595,
+                0.1398773428983156,
+                0.10954140534933576
+              ],
+              "timestamp": 1781823420.6677601
+            },
+            "persona_categories": [
+              "persona_1",
+              "persona_2"
+            ],
+            "success": true
+          },
+          {
+            "step": "compress_and_order_data",
+            "compressed_block": {
+              "seed": "f7f375625f11ac6d",
+              "original_size": 353,
+              "compressed_size": 232,
+              "compressed_data": "789c35905b6ac3400c45b712fc1d8c347a772ba598c19982c17642ed144ae9de2bbbf44be270efd5e3bb9bf6f651f7e9be0ed3ad7bb9744b9db2fd87ddf5d2edf7bdcec3f835ce6d4b450148d8e6fad8da6dd8a7a525841e889c1dd88a286b18a5685adfe7675bc7d47dd6ec0efb2bf658c23042c4588bc535dde2ea0288a468cc520ec660e4402e2c4e8ece072c1a6286201ce909a213821ab15821cd10023920aae41c45562e14e514626e574a5e408cee28676496937a78264afcb929dc32f4a084a2278310460621cec162fa767c271fb0ed7579e46d68b9664913f4aa660af8f30bffaa561e",
+              "compression_ratio": 0.6572237960339944,
+              "timestamp": 1781823420.671929,
+              "block_type": "pattern_data"
+            },
+            "block_id": "block_1781823420",
+            "success": true
+          },
+          {
+            "step": "create_isolated_json",
+            "categories_locked": [
+              "persona_1",
+              "persona_2"
+            ],
+            "success": true
+          },
+          {
+            "step": "process_weights",
+            "weight_classes": [
+              "weight_persona_1",
+              "weight_persona_2"
+            ],
+            "success": true
+          }
+        ],
+        "timestamp": 1781823420.3490937
+      },
+      "weight_states": {},
+      "pattern_states": {},
+      "created_at": 1781823420.7487352,
+      "saved_at": 1781823420.9081666
+    },
+    "memory_1781823758": {
+      "point_id": "memory_1781823758",
+      "state_data": {
+        "sequence_id": "seq_1781823757",
+        "steps": [
+          {
+            "step": "extract_endpoint_structure",
+            "endpoint": "http://example.com/api/data",
+            "structure": null,
+            "derived_sequence": [],
+            "internal_dir_info": {
+              "path": "E:/DOWNLOADs/derived-spacial",
+              "exists": false,
+              "files": [],
+              "code_execution_points": []
+            },
+            "success": false
+          },
+          {
+            "step": "create_persistent_session",
+            "session_id": "1068be2d-7515-4443-81fc-9c170431f28b",
+            "user_id": "user_001",
+            "session_count": 6,
+            "is_exceeding_one": true,
+            "success": true
+          },
+          {
+            "step": "create_handshake",
+            "handshake_id": "4565bab0-3931-4048-9344-30f022e319b9",
+            "payload": {
+              "structure": null
+            },
+            "success": true
+          },
+          {
+            "step": "process_patterns",
+            "patterns": {
+              "marker": {
+                "marker_id": "main_marker",
+                "constants": [
+                  {
+                    "name": "base_value",
+                    "value": 1.0,
+                    "hash": "e4c2e8edac362acab7123654b9e73432"
+                  },
+                  {
+                    "name": "multiplier",
+                    "value": 2.0,
+                    "hash": "d1bd83a33f1a841ab7fda32449746cc4"
+                  }
+                ],
+                "created_at": 1781823758.0902433
+              },
+              "isolated_patterns": [],
+              "structure_keys": []
+            },
+            "success": true
+          },
+          {
+            "step": "detect_neural_matches",
+            "matches": [],
+            "success": true
+          },
+          {
+            "step": "extract_entropy_subspace",
+            "extraction": {
+              "subspace_id": "main_subspace",
+              "total_entropy": 3.1036434684967853,
+              "elapsed_time": 10.0,
+              "extraction_rate": 0.3103643468496785,
+              "timestamp": 1781823758.0927494
+            },
+            "total_entropy": 3.1036434684967853,
+            "success": true
+          },
+          {
+            "step": "run_pattern_iteration",
+            "iteration_data": {
+              "iteration_id": "main_iteration",
+              "total_cycles": 200,
+              "elapsed_time": 0.02585434913635254,
+              "influenced_values": [
+                2.0712980682137068,
+                0.7965589141782621,
+                0.6177289310704583,
+                0.4739110771188993,
+                0.3208151857435975,
+                0.3795434117025669,
+                0.2921851957503344,
+                0.23488068752114882,
+                0.20140291021453557,
+                0.20104859748532178
+              ],
+              "timestamp": 1781823758.1192331
+            },
+            "persona_categories": [
+              "persona_1",
+              "persona_2"
+            ],
+            "success": true
+          },
+          {
+            "step": "compress_and_order_data",
+            "compressed_block": {
+              "seed": "bd575ad6d2eb896a",
+              "original_size": 351,
+              "compressed_size": 230,
+              "compressed_data": "789c35d05b6ac3400c05d0ad047f87a0abc748ea564a092671c1e03c689c4229dd7b35a6fd99110769b89aef615ea78f719d6fd7e37c1e5e76c3659cabfcc761bf1bd6db3a2ec7d3d769991ed5c14485d332de1fd3f9b8ce97a9900ec416a6a20969626c5a4df3f57d794ed753f57d8e55f5f1573e908333a80543bcae7d8d7b36b348283cb831ba35b873a4809cd442baa94ba2c08188cccd8429600873154bb7cd3c7b1ac02b586bd98d93ab09696e24a2ba9968f4286e0c54c91b129438410c3531f33f248d7abf0ee18af9d6ffa6d67face3e55e9b152158dce200248be0e71746ca5597",
+              "compression_ratio": 0.6552706552706553,
+              "timestamp": 1781823758.122743,
+              "block_type": "pattern_data"
+            },
+            "block_id": "block_1781823758",
+            "success": true
+          },
+          {
+            "step": "create_isolated_json",
+            "categories_locked": [
+              "persona_1",
+              "persona_2"
+            ],
+            "success": true
+          },
+          {
+            "step": "process_weights",
+            "weight_classes": [
+              "weight_persona_1",
+              "weight_persona_2"
+            ],
+            "success": true
+          }
+        ],
+        "timestamp": 1781823757.848099
+      },
+      "weight_states": {},
+      "pattern_states": {},
+      "created_at": 1781823758.1810727,
+      "saved_at": 1781823758.3544536
+    },
+    "memory_1781823865": {
+      "point_id": "memory_1781823865",
+      "state_data": {
+        "sequence_id": "seq_1781823864",
+        "steps": [
+          {
+            "step": "extract_endpoint_structure",
+            "endpoint": "http://example.com/api/data",
+            "structure": null,
+            "derived_sequence": [],
+            "internal_dir_info": {
+              "path": "E:/DOWNLOADs/derived-spacial",
+              "exists": false,
+              "files": [],
+              "code_execution_points": []
+            },
+            "success": false
+          },
+          {
+            "step": "create_persistent_session",
+            "session_id": "3ecc2ed0-685a-412d-833a-6f2d5b792830",
+            "user_id": "user_001",
+            "session_count": 7,
+            "is_exceeding_one": true,
+            "success": true
+          },
+          {
+            "step": "create_handshake",
+            "handshake_id": "94847967-b510-4a5a-be8a-0300c19d344c",
+            "payload": {
+              "structure": null
+            },
+            "success": true
+          },
+          {
+            "step": "process_patterns",
+            "patterns": {
+              "marker": {
+                "marker_id": "main_marker",
+                "constants": [
+                  {
+                    "name": "base_value",
+                    "value": 1.0,
+                    "hash": "e4c2e8edac362acab7123654b9e73432"
+                  },
+                  {
+                    "name": "multiplier",
+                    "value": 2.0,
+                    "hash": "d1bd83a33f1a841ab7fda32449746cc4"
+                  }
+                ],
+                "created_at": 1781823865.227811
+              },
+              "isolated_patterns": [],
+              "structure_keys": []
+            },
+            "success": true
+          },
+          {
+            "step": "detect_neural_matches",
+            "matches": [],
+            "success": true
+          },
+          {
+            "step": "extract_entropy_subspace",
+            "extraction": {
+              "subspace_id": "main_subspace",
+              "total_entropy": 3.1036434684967853,
+              "elapsed_time": 10.0,
+              "extraction_rate": 0.3103643468496785,
+              "timestamp": 1781823865.2308085
+            },
+            "total_entropy": 3.1036434684967853,
+            "success": true
+          },
+          {
+            "step": "run_pattern_iteration",
+            "iteration_data": {
+              "iteration_id": "main_iteration",
+              "total_cycles": 200,
+              "elapsed_time": 0.028142452239990234,
+              "influenced_values": [
+                1.9482998011661006,
+                0.8472286095783766,
+                0.5935930023365973,
+                0.42510833009922416,
+                0.31757309163219966,
+                0.3157235325068227,
+                0.2807146861875386,
+                0.2194838230246782,
+                0.16799175667151628,
+                0.19201691017858435
+              ],
+              "timestamp": 1781823865.258951
+            },
+            "persona_categories": [
+              "persona_1",
+              "persona_2"
+            ],
+            "success": true
+          },
+          {
+            "step": "compress_and_order_data",
+            "compressed_block": {
+              "seed": "aaecaa16b1a76fa0",
+              "original_size": 352,
+              "compressed_size": 231,
+              "compressed_data": "789c35d05b6ac3400c05d0ad047f07a3c7e8d5ad94628c338501db09b55328a57baf6c5a980f71b85730faeeda5e3fc6bdddd7a1ddba974bb78c2dc77fecae976ebfefe33c4c5fd35cb74c1040629dc7c7566fc3de969a083d9063a122441c11405c32d5d6f7f959d729839f634e47ff15fb284e110e88aa08a0d7ec7b312257083167d3d324381fe4325609e3c30a0982736a0451c133c868620c81ca8411fa8762c4c224a04e648791836151577413f633978de2ecc44045cde930548bc8a5aa86824a7e6210a006029a8b1796b7e33a79806d1f97477e2d1d738fabf4241e823fbf933755e4",
+              "compression_ratio": 0.65625,
+              "timestamp": 1781823865.261465,
+              "block_type": "pattern_data"
+            },
+            "block_id": "block_1781823865",
+            "success": true
+          },
+          {
+            "step": "create_isolated_json",
+            "categories_locked": [
+              "persona_1",
+              "persona_2"
+            ],
+            "success": true
+          },
+          {
+            "step": "process_weights",
+            "weight_classes": [
+              "weight_persona_1",
+              "weight_persona_2"
+            ],
+            "success": true
+          }
+        ],
+        "timestamp": 1781823864.8260229
+      },
+      "weight_states": {},
+      "pattern_states": {},
+      "created_at": 1781823865.3266683,
+      "saved_at": 1781823865.5708022
+    },
+    "memory_1781823959": {
+      "point_id": "memory_1781823959",
+      "state_data": {
+        "sequence_id": "seq_1781823958",
+        "steps": [
+          {
+            "step": "extract_endpoint_structure",
+            "endpoint": "http://example.com/api/data",
+            "structure": null,
+            "derived_sequence": [],
+            "internal_dir_info": {
+              "path": "E:/DOWNLOADs/derived-spacial",
+              "exists": false,
+              "files": [],
+              "code_execution_points": []
+            },
+            "success": false
+          },
+          {
+            "step": "create_persistent_session",
+            "session_id": "5d9c2420-375c-4fb3-b0e0-aa1920936c09",
+            "user_id": "user_001",
+            "session_count": 8,
+            "is_exceeding_one": true,
+            "success": true
+          },
+          {
+            "step": "create_handshake",
+            "handshake_id": "69e3e541-bc47-4d0c-bfdc-44054da49951",
+            "payload": {
+              "structure": null
+            },
+            "success": true
+          },
+          {
+            "step": "process_patterns",
+            "patterns": {
+              "marker": {
+                "marker_id": "main_marker",
+                "constants": [
+                  {
+                    "name": "base_value",
+                    "value": 1.0,
+                    "hash": "e4c2e8edac362acab7123654b9e73432"
+                  },
+                  {
+                    "name": "multiplier",
+                    "value": 2.0,
+                    "hash": "d1bd83a33f1a841ab7fda32449746cc4"
+                  }
+                ],
+                "created_at": 1781823959.069221
+              },
+              "isolated_patterns": [],
+              "structure_keys": []
+            },
+            "success": true
+          },
+          {
+            "step": "detect_neural_matches",
+            "matches": [],
+            "success": true
+          },
+          {
+            "step": "extract_entropy_subspace",
+            "extraction": {
+              "subspace_id": "main_subspace",
+              "total_entropy": 3.1036434684967853,
+              "elapsed_time": 10.0,
+              "extraction_rate": 0.3103643468496785,
+              "timestamp": 1781823959.0717356
+            },
+            "total_entropy": 3.1036434684967853,
+            "success": true
+          },
+          {
+            "step": "run_pattern_iteration",
+            "iteration_data": {
+              "iteration_id": "main_iteration",
+              "total_cycles": 200,
+              "elapsed_time": 0.028789758682250977,
+              "influenced_values": [
+                1.1841474119738182,
+                0.5319725214017499,
+                0.41925461554671634,
+                0.30327634265522124,
+                0.22345410324980475,
+                0.1771274279565831,
+                0.17024116061190953,
+                0.11894755470408999,
+                0.1131001887440309,
+                0.09024987172175823
+              ],
+              "timestamp": 1781823959.1005254
+            },
+            "persona_categories": [
+              "persona_1",
+              "persona_2"
+            ],
+            "success": true
+          },
+          {
+            "step": "compress_and_order_data",
+            "compressed_block": {
+              "seed": "955a98db00074095",
+              "original_size": 355,
+              "compressed_size": 234,
+              "compressed_data": "789c3590516ac4300c44afb2e47b09922c5952af524a30591702497669dc4229bd7be52cfd31f2f30ce3d1cfb0b4fa51da72dfa7e536bc5c86ad2c31fec3e17a19dabd95759abfe7b51ea1208080752d8fa3dea6b66c35208c40a6e62a968d48c05543b5ecefeb67dde7107e9598baff154734465646744d8646d7f04b8a1b0921032abb77c6e8249c51e250cc893b4c904863a62c42847442a2c4c2184fec06acd221aa222993ba64b1844f0614c11972a4834b3a219a87475881c1fc198e981000cd9419129c0c1c7a80a21246554a6f7d3fb182a395ed11e5507b9fe4e26398257efffb078f755651",
+              "compression_ratio": 0.6591549295774648,
+              "timestamp": 1781823959.1030848,
+              "block_type": "pattern_data"
+            },
+            "block_id": "block_1781823959",
+            "success": true
+          },
+          {
+            "step": "create_isolated_json",
+            "categories_locked": [
+              "persona_1",
+              "persona_2"
+            ],
+            "success": true
+          },
+          {
+            "step": "process_weights",
+            "weight_classes": [
+              "weight_persona_1",
+              "weight_persona_2"
+            ],
+            "success": true
+          }
+        ],
+        "timestamp": 1781823958.8552923
+      },
+      "weight_states": {},
+      "pattern_states": {},
+      "created_at": 1781823959.1653504,
+      "saved_at": 1781823959.3861911
+    },
+    "memory_1781824106": {
+      "point_id": "memory_1781824106",
+      "state_data": {
+        "sequence_id": "seq_1781824106",
+        "steps": [
+          {
+            "step": "extract_endpoint_structure",
+            "endpoint": "http://example.com/api/data",
+            "structure": null,
+            "derived_sequence": [],
+            "internal_dir_info": {
+              "path": "E:/DOWNLOADs/derived-spacial",
+              "exists": false,
+              "files": [],
+              "code_execution_points": []
+            },
+            "success": false
+          },
+          {
+            "step": "create_persistent_session",
+            "session_id": "ab3602d6-501b-46ef-a811-2ccf5455bbdb",
+            "user_id": "user_001",
+            "session_count": 9,
+            "is_exceeding_one": true,
+            "success": true
+          },
+          {
+            "step": "create_handshake",
+            "handshake_id": "6f85e276-6076-4b24-b6b0-cefa4c8ceda6",
+            "payload": {
+              "structure": null
+            },
+            "success": true
+          },
+          {
+            "step": "process_patterns",
+            "patterns": {
+              "marker": {
+                "marker_id": "main_marker",
+                "constants": [
+                  {
+                    "name": "base_value",
+                    "value": 1.0,
+                    "hash": "e4c2e8edac362acab7123654b9e73432"
+                  },
+                  {
+                    "name": "multiplier",
+                    "value": 2.0,
+                    "hash": "d1bd83a33f1a841ab7fda32449746cc4"
+                  }
+                ],
+                "created_at": 1781824106.7642128
+              },
+              "isolated_patterns": [],
+              "structure_keys": []
+            },
+            "success": true
+          },
+          {
+            "step": "detect_neural_matches",
+            "matches": [],
+            "success": true
+          },
+          {
+            "step": "extract_entropy_subspace",
+            "extraction": {
+              "subspace_id": "main_subspace",
+              "total_entropy": 3.1036434684967853,
+              "elapsed_time": 10.0,
+              "extraction_rate": 0.3103643468496785,
+              "timestamp": 1781824106.7662249
+            },
+            "total_entropy": 3.1036434684967853,
+            "success": true
+          },
+          {
+            "step": "run_pattern_iteration",
+            "iteration_data": {
+              "iteration_id": "main_iteration",
+              "total_cycles": 200,
+              "elapsed_time": 0.03463888168334961,
+              "influenced_values": [
+                1.75841721901086,
+                0.8016812904244373,
+                0.5707516553846774,
+                0.3822468990582666,
+                0.38037568913678743,
+                0.32991659017151864,
+                0.23450881560177642,
+                0.2352713965645738,
+                0.20402932550560396,
+                0.18698159791213492
+              ],
+              "timestamp": 1781824106.8024168
+            },
+            "persona_categories": [
+              "persona_1",
+              "persona_2"
+            ],
+            "success": true
+          },
+          {
+            "step": "compress_and_order_data",
+            "compressed_block": {
+              "seed": "261c32f8e6ad9f09",
+              "original_size": 351,
+              "compressed_size": 230,
+              "compressed_data": "789c35905b6ac3301045b712fc1dc2bc67d4ad946284a382c17642a3164ae9de3b76e89786a37b245dfd0c736f1fb5cfb76d9cafc3cb6958eb9ce33f1ccea7a1df7a5dc6e97b5ada23130490b02df5fe68d7b1cf6b4b081760318e08b460966298a1797b5f3edb3665eeabe6b4ebaf78710d41272c8010764e392035a4024222ecbc3375704553e51073979d7110894529a04166f664c0ae0991cdc3e590994a49376f70540c3b6c6251c817aa2576137a4225472ea626ea1c0703012a4caa90d9dcdb619e52d22d5e90301bd2dbfe3759ffd1eb7acf66e881418260d927578bdf3f56bf55bb",
+              "compression_ratio": 0.6552706552706553,
+              "timestamp": 1781824106.8044212,
+              "block_type": "pattern_data"
+            },
+            "block_id": "block_1781824106",
+            "success": true
+          },
+          {
+            "step": "create_isolated_json",
+            "categories_locked": [
+              "persona_1",
+              "persona_2"
+            ],
+            "success": true
+          },
+          {
+            "step": "process_weights",
+            "weight_classes": [
+              "weight_persona_1",
+              "weight_persona_2"
+            ],
+            "success": true
+          }
+        ],
+        "timestamp": 1781824106.5213535
+      },
+      "weight_states": {},
+      "pattern_states": {},
+      "created_at": 1781824106.8803744,
+      "saved_at": 1781824107.1680436
+    },
+    "memory_1781824265": {
+      "point_id": "memory_1781824265",
+      "state_data": {
+        "sequence_id": "seq_1781824264",
+        "steps": [
+          {
+            "step": "extract_endpoint_structure",
+            "endpoint": "http://example.com/api/data",
+            "structure": null,
+            "derived_sequence": [],
+            "internal_dir_info": {
+              "path": "E:/DOWNLOADs/derived-spacial",
+              "exists": false,
+              "files": [],
+              "code_execution_points": []
+            },
+            "success": false
+          },
+          {
+            "step": "create_persistent_session",
+            "session_id": "70630294-27c8-4534-853a-54b15133f334",
+            "user_id": "user_001",
+            "session_count": 10,
+            "is_exceeding_one": true,
+            "success": true
+          },
+          {
+            "step": "create_handshake",
+            "handshake_id": "58c46143-7b7c-4f71-a115-c1b7e3a3482e",
+            "payload": {
+              "structure": null
+            },
+            "success": true
+          },
+          {
+            "step": "process_patterns",
+            "patterns": {
+              "marker": {
+                "marker_id": "main_marker",
+                "constants": [
+                  {
+                    "name": "base_value",
+                    "value": 1.0,
+                    "hash": "e4c2e8edac362acab7123654b9e73432"
+                  },
+                  {
+                    "name": "multiplier",
+                    "value": 2.0,
+                    "hash": "d1bd83a33f1a841ab7fda32449746cc4"
+                  }
+                ],
+                "created_at": 1781824264.9881473
+              },
+              "isolated_patterns": [],
+              "structure_keys": []
+            },
+            "success": true
+          },
+          {
+            "step": "detect_neural_matches",
+            "matches": [],
+            "success": true
+          },
+          {
+            "step": "extract_entropy_subspace",
+            "extraction": {
+              "subspace_id": "main_subspace",
+              "total_entropy": 3.1036434684967853,
+              "elapsed_time": 10.0,
+              "extraction_rate": 0.3103643468496785,
+              "timestamp": 1781824264.9904191
+            },
+            "total_entropy": 3.1036434684967853,
+            "success": true
+          },
+          {
+            "step": "run_pattern_iteration",
+            "iteration_data": {
+              "iteration_id": "main_iteration",
+              "total_cycles": 200,
+              "elapsed_time": 0.02881336212158203,
+              "influenced_values": [
+                1.3181928758206414,
+                0.5295362299766364,
+                0.3017364954761565,
+                0.3009293085354192,
+                0.24044032683163444,
+                0.1928197503584022,
+                0.19182415620680046,
+                0.1640683900607223,
+                0.11924238174917495,
+                0.0921742366897003
+              ],
+              "timestamp": 1781824265.0202398
+            },
+            "persona_categories": [
+              "persona_1",
+              "persona_2"
+            ],
+            "success": true
+          },
+          {
+            "step": "compress_and_order_data",
+            "compressed_block": {
+              "seed": "6920c85fb142cbdc",
+              "original_size": 351,
+              "compressed_size": 229,
+              "compressed_data": "789c35905d6a03310c84af12f63904fd59967a955216b371c1b0bb098d5b28a577afbca10f86f1c78c06e9676abd7e94de6efbdcaed3cb69da4a0bf90fa7f369eab75ed679f95ed6fa08070104ac6bb93fea75ee6dab01e1026486cc4a48988c80c3d4f6f7f5b3ee4bf8be4aa8117fc50ba3a193e561534139473c91a708937b56653d1803e6909e242b264d4f064ece608993c494c148400498d41895458ef06840cf09389900d193a191c4a8e83500d103aac48f1d402113f1c1222dc486597cbca33a8a4313ab9a67007e1bb789f51fbd6cf7d80cb38df1a4298e01c46ebf7f21be5561",
+              "compression_ratio": 0.6524216524216524,
+              "timestamp": 1781824265.0223227,
+              "block_type": "pattern_data"
+            },
+            "block_id": "block_1781824265",
+            "success": true
+          },
+          {
+            "step": "create_isolated_json",
+            "categories_locked": [
+              "persona_1",
+              "persona_2"
+            ],
+            "success": true
+          },
+          {
+            "step": "process_weights",
+            "weight_classes": [
+              "weight_persona_1",
+              "weight_persona_2"
+            ],
+            "success": true
+          }
+        ],
+        "timestamp": 1781824264.643876
+      },
+      "weight_states": {},
+      "pattern_states": {},
+      "created_at": 1781824265.0964448,
+      "saved_at": 1781824265.412675
+    },
+    "memory_1781824628": {
+      "point_id": "memory_1781824628",
+      "state_data": {
+        "sequence_id": "seq_1781824627",
+        "steps": [
+          {
+            "step": "extract_endpoint_structure",
+            "endpoint": "http://example.com/api/data",
+            "structure": null,
+            "derived_sequence": [],
+            "internal_dir_info": {
+              "path": "E:/DOWNLOADs/derived-spacial",
+              "exists": false,
+              "files": [],
+              "code_execution_points": []
+            },
+            "success": false
+          },
+          {
+            "step": "create_persistent_session",
+            "session_id": "84cc1615-6ceb-4935-97af-afbce317956f",
+            "user_id": "user_001",
+            "session_count": 11,
+            "is_exceeding_one": true,
+            "success": true
+          },
+          {
+            "step": "create_handshake",
+            "handshake_id": "82447128-2ef3-450a-b15e-ad214b504d90",
+            "payload": {
+              "structure": null
+            },
+            "success": true
+          },
+          {
+            "step": "process_patterns",
+            "patterns": {
+              "marker": {
+                "marker_id": "main_marker",
+                "constants": [
+                  {
+                    "name": "base_value",
+                    "value": 1.0,
+                    "hash": "e4c2e8edac362acab7123654b9e73432"
+                  },
+                  {
+                    "name": "multiplier",
+                    "value": 2.0,
+                    "hash": "d1bd83a33f1a841ab7fda32449746cc4"
+                  }
+                ],
+                "created_at": 1781824628.1579406
+              },
+              "isolated_patterns": [],
+              "structure_keys": []
+            },
+            "success": true
+          },
+          {
+            "step": "detect_neural_matches",
+            "matches": [],
+            "success": true
+          },
+          {
+            "step": "extract_entropy_subspace",
+            "extraction": {
+              "subspace_id": "main_subspace",
+              "total_entropy": 3.1036434684967853,
+              "elapsed_time": 10.0,
+              "extraction_rate": 0.3103643468496785,
+              "timestamp": 1781824628.1599486
+            },
+            "total_entropy": 3.1036434684967853,
+            "success": true
+          },
+          {
+            "step": "run_pattern_iteration",
+            "iteration_data": {
+              "iteration_id": "main_iteration",
+              "total_cycles": 200,
+              "elapsed_time": 0.02841949462890625,
+              "influenced_values": [
+                1.452618163957665,
+                0.629399299582469,
+                0.42269297224413765,
+                0.37468323635557543,
+                0.2916547470580848,
+                0.2548413864585481,
+                0.19918851560425435,
+                0.1791155721457267,
+                0.1637234256466493,
+                0.13869542794069192
+              ],
+              "timestamp": 1781824628.1893682
+            },
+            "persona_categories": [
+              "persona_1",
+              "persona_2"
+            ],
+            "success": true
+          },
+          {
+            "step": "compress_and_order_data",
+            "compressed_block": {
+              "seed": "ede748497f444a76",
+              "original_size": 350,
+              "compressed_size": 230,
+              "compressed_data": "789c3590db4ac43010865f65e9b594cc3133be8a4809dd0881b6bbb85110f1dd9d54bc093f5fbecc21df53ebf5bdf4763b96769d9e2fd35e5ac47f383d5da67eeb655bd6af75ab8f3030a580752bf747bd2ebded35609a131a83b3b3a279529490daf1b67dd4630defb3441acf5f60664105032597ac1a629a159ddcd15d0c597d2046d42019911928ff7994598d909444240bd380e8a0c29973124bc67632e198874c592c220c06ee6026209a38eee9ac08d901a21602c7a1f9644a19291c6555f6b3c9a8e5c2989d933a38be8eaf89ed1fbdecf7580cb2c1181e6d067352c39f5f1d6155bd",
+              "compression_ratio": 0.6571428571428571,
+              "timestamp": 1781824628.192708,
+              "block_type": "pattern_data"
+            },
+            "block_id": "block_1781824628",
+            "success": true
+          },
+          {
+            "step": "create_isolated_json",
+            "categories_locked": [
+              "persona_1",
+              "persona_2"
+            ],
+            "success": true
+          },
+          {
+            "step": "process_weights",
+            "weight_classes": [
+              "weight_persona_1",
+              "weight_persona_2"
+            ],
+            "success": true
+          }
+        ],
+        "timestamp": 1781824627.9515548
+      },
+      "weight_states": {},
+      "pattern_states": {},
+      "created_at": 1781824628.2646227,
+      "saved_at": 1781824628.57703
+    },
+    "memory_1781825290": {
+      "point_id": "memory_1781825290",
+      "state_data": {
+        "sequence_id": "seq_1781825290",
+        "steps": [
+          {
+            "step": "extract_endpoint_structure",
+            "endpoint": "http://example.com/api/data",
+            "structure": null,
+            "derived_sequence": [],
+            "internal_dir_info": {
+              "path": "E:/DOWNLOADs/derived-spacial",
+              "exists": false,
+              "files": [],
+              "code_execution_points": []
+            },
+            "success": false
+          },
+          {
+            "step": "create_persistent_session",
+            "session_id": "57c236a4-b3bd-4d5b-b96f-caaeeee1f1be",
+            "user_id": "user_001",
+            "session_count": 12,
+            "is_exceeding_one": true,
+            "success": true
+          },
+          {
+            "step": "create_handshake",
+            "handshake_id": "5eafc8dd-6966-4147-a7a0-97fc5f3b9c49",
+            "payload": {
+              "structure": null
+            },
+            "success": true
+          },
+          {
+            "step": "process_patterns",
+            "patterns": {
+              "marker": {
+                "marker_id": "main_marker",
+                "constants": [
+                  {
+                    "name": "base_value",
+                    "value": 1.0,
+                    "hash": "e4c2e8edac362acab7123654b9e73432"
+                  },
+                  {
+                    "name": "multiplier",
+                    "value": 2.0,
+                    "hash": "d1bd83a33f1a841ab7fda32449746cc4"
+                  }
+                ],
+                "created_at": 1781825290.6424484
+              },
+              "isolated_patterns": [],
+              "structure_keys": []
+            },
+            "success": true
+          },
+          {
+            "step": "detect_neural_matches",
+            "matches": [],
+            "success": true
+          },
+          {
+            "step": "extract_entropy_subspace",
+            "extraction": {
+              "subspace_id": "main_subspace",
+              "total_entropy": 3.1036434684967853,
+              "elapsed_time": 10.0,
+              "extraction_rate": 0.3103643468496785,
+              "timestamp": 1781825290.6449609
+            },
+            "total_entropy": 3.1036434684967853,
+            "success": true
+          },
+          {
+            "step": "run_pattern_iteration",
+            "iteration_data": {
+              "iteration_id": "main_iteration",
+              "total_cycles": 200,
+              "elapsed_time": 0.030812740325927734,
+              "influenced_values": [
+                1.743580472201948,
+                0.8054683694548125,
+                0.6829587211293602,
+                0.4306742055638121,
+                0.38104328059933096,
+                0.30676981917899104,
+                0.2441992410416842,
+                0.2460883229441779,
+                0.237960672448562,
+                0.18484482800778526
+              ],
+              "timestamp": 1781825290.6757736
+            },
+            "persona_categories": [
+              "persona_1",
+              "persona_2"
+            ],
+            "success": true
+          },
+          {
+            "step": "compress_and_order_data",
+            "compressed_block": {
+              "seed": "6badd6a314e1d1ee",
+              "original_size": 350,
+              "compressed_size": 232,
+              "compressed_data": "789c35905b6ac3400c45b712fc1d8246d2e8d1ad94628ce382c176423d2994d2bdf73aa57fd2992369a4ef6e6ed3c7d0e6dbd6cfd7eee5d4adc38cf01f76e753d76e6d58faf16b5ca61d0613014ecb70dfa76bdfe67502a40b0945615712aec9eea2b0e6ed7d794cdb08f1734074d4bf968babd42075662aa971467950550bb1d4aae8530f66c159c3b9144e31e283a990b932d56a02af1c0c01a9305a648a50da13c2b38c92c52313c20159b564b2222d16ca7fcc284298138feef964e26968003faa3db5121ac83085dca3b2bd1da7c1f67b1bd63bf6c29c125c39f171af3880fdfc02e432557a",
+              "compression_ratio": 0.6628571428571428,
+              "timestamp": 1781825290.6792881,
+              "block_type": "pattern_data"
+            },
+            "block_id": "block_1781825290",
+            "success": true
+          },
+          {
+            "step": "create_isolated_json",
+            "categories_locked": [
+              "persona_1",
+              "persona_2"
+            ],
+            "success": true
+          },
+          {
+            "step": "process_weights",
+            "weight_classes": [
+              "weight_persona_1",
+              "weight_persona_2"
+            ],
+            "success": true
+          }
+        ],
+        "timestamp": 1781825290.4158063
+      },
+      "weight_states": {},
+      "pattern_states": {},
+      "created_at": 1781825290.7680466,
+      "saved_at": 1781825291.1733816
+    },
+    "memory_1781826090": {
+      "point_id": "memory_1781826090",
+      "state_data": {
+        "sequence_id": "seq_1781826089",
+        "steps": [
+          {
+            "step": "extract_endpoint_structure",
+            "endpoint": "http://example.com/api/data",
+            "structure": null,
+            "derived_sequence": [],
+            "internal_dir_info": {
+              "path": "E:/DOWNLOADs/derived-spacial",
+              "exists": false,
+              "files": [],
+              "code_execution_points": []
+            },
+            "success": false
+          },
+          {
+            "step": "create_persistent_session",
+            "session_id": "51e0e2d8-647f-4939-9126-f1186e06c3fc",
+            "user_id": "user_001",
+            "session_count": 13,
+            "is_exceeding_one": true,
+            "success": true
+          },
+          {
+            "step": "create_handshake",
+            "handshake_id": "f5932bb5-26f8-41c7-8c38-27ba5c2bbf30",
+            "payload": {
+              "structure": null
+            },
+            "success": true
+          },
+          {
+            "step": "process_patterns",
+            "patterns": {
+              "marker": {
+                "marker_id": "main_marker",
+                "constants": [
+                  {
+                    "name": "base_value",
+                    "value": 1.0,
+                    "hash": "e4c2e8edac362acab7123654b9e73432"
+                  },
+                  {
+                    "name": "multiplier",
+                    "value": 2.0,
+                    "hash": "d1bd83a33f1a841ab7fda32449746cc4"
+                  }
+                ],
+                "created_at": 1781826090.3859904
+              },
+              "isolated_patterns": [],
+              "structure_keys": []
+            },
+            "success": true
+          },
+          {
+            "step": "detect_neural_matches",
+            "matches": [],
+            "success": true
+          },
+          {
+            "step": "extract_entropy_subspace",
+            "extraction": {
+              "subspace_id": "main_subspace",
+              "total_entropy": 3.1036434684967853,
+              "elapsed_time": 10.0,
+              "extraction_rate": 0.3103643468496785,
+              "timestamp": 1781826090.388501
+            },
+            "total_entropy": 3.1036434684967853,
+            "success": true
+          },
+          {
+            "step": "run_pattern_iteration",
+            "iteration_data": {
+              "iteration_id": "main_iteration",
+              "total_cycles": 200,
+              "elapsed_time": 0.03442549705505371,
+              "influenced_values": [
+                0.8995509086588287,
+                0.45445923267164146,
+                0.38999316182642013,
+                0.2978858817214528,
+                0.19301312388155245,
+                0.14397493258239488,
+                0.17386983087136842,
+                0.12510615289637597,
+                0.12974326064056654,
+                0.11535582717965581
+              ],
+              "timestamp": 1781826090.4229264
+            },
+            "persona_categories": [
+              "persona_1",
+              "persona_2"
+            ],
+            "success": true
+          },
+          {
+            "step": "compress_and_order_data",
+            "compressed_block": {
+              "seed": "17db59967de814a8",
+              "original_size": 356,
+              "compressed_size": 231,
+              "compressed_data": "789c3590db6a84000c447f65f17991dc2ffd9552445c0b82ba4bb58552faef8d2e7d1b4e66c2243fcdb48f1ffd3eddd76eba352f9766e9a792ffb0b95e9afdbef773377c0ff3b89583000a8e73ffd8c65bb74fcb58105a60115249075550762cd3b4becf9fe33a94efab2f75c45fa18dccf224846904855f2b2e2aa2494ce668826207e47226a361900901f201293da282e884a21407c3e49a22716155123da170ba249306714a3c9dce61190ce1c8164227244530ac6569ec9afe8495ae3e60026aa6724254d6dae7e86925f0ed7850fd60dbfbe551e7a1c7d1b6ae6b8528abf7ef1f04e756ce",
+              "compression_ratio": 0.648876404494382,
+              "timestamp": 1781826090.4264395,
+              "block_type": "pattern_data"
+            },
+            "block_id": "block_1781826090",
+            "success": true
+          },
+          {
+            "step": "create_isolated_json",
+            "categories_locked": [
+              "persona_1",
+              "persona_2"
+            ],
+            "success": true
+          },
+          {
+            "step": "process_weights",
+            "weight_classes": [
+              "weight_persona_1",
+              "weight_persona_2"
+            ],
+            "success": true
+          }
+        ],
+        "timestamp": 1781826089.8816578
+      },
+      "weight_states": {},
+      "pattern_states": {},
+      "created_at": 1781826090.5075312,
+      "saved_at": 1781826090.9237373
+    },
+    "memory_1781828080": {
+      "point_id": "memory_1781828080",
+      "state_data": {
+        "sequence_id": "seq_1781828079",
+        "steps": [
+          {
+            "step": "extract_endpoint_structure",
+            "endpoint": "https://www.tiktok.com/api/data",
+            "structure": {
+              "type": "dict",
+              "hash": "a697b6802764d4aa",
+              "timestamp": 1781828079.7859101,
+              "keys": [
+                "log_pb",
+                "status_code",
+                "status_msg"
+              ],
+              "nested_structure": {
+                "log_pb": {
+                  "type": "dict",
+                  "hash": "81c6359a471b03ca",
+                  "timestamp": 1781828079.7869112,
+                  "keys": [
+                    "impr_id"
+                  ],
+                  "nested_structure": {
+                    "impr_id": {
+                      "type": "str",
+                      "hash": "a8c113176a9a6dc1",
+                      "timestamp": 1781828079.7869112,
+                      "value": "202606190814395D9952DC4026CE128B2F"
+                    }
+                  }
+                },
+                "status_code": {
+                  "type": "int",
+                  "hash": "5feceb66ffc86f38",
+                  "timestamp": 1781828079.7869112,
+                  "value": 0
+                },
+                "status_msg": {
+                  "type": "str",
+                  "hash": "98405a6a3388c2a6",
+                  "timestamp": 1781828079.7869112,
+                  "value": "url doesn't match"
+                }
+              }
+            },
+            "derived_sequence": [
+              "log_pb",
+              "status_code",
+              "status_msg",
+              "log_pb",
+              "impr_id",
+              "impr_id",
+              "202606190814395D9952DC4026CE128B2F",
+              "status_code",
+              0,
+              "status_msg",
+              "url doesn't match"
+            ],
+            "internal_dir_info": {
+              "path": "E:/DOWNLOADs/derived-spacial",
+              "exists": false,
+              "files": [],
+              "code_execution_points": []
+            },
+            "success": true
+          },
+          {
+            "step": "create_persistent_session",
+            "session_id": "2d6fbe05-693f-4701-a794-aa2e3312e544",
+            "user_id": "user_001",
+            "session_count": 14,
+            "is_exceeding_one": true,
+            "success": true
+          },
+          {
+            "step": "create_handshake",
+            "handshake_id": "ba2c6fbc-4d18-4a71-b987-d640d80006df",
+            "payload": {
+              "structure": {
+                "type": "dict",
+                "hash": "a697b6802764d4aa",
+                "timestamp": 1781828079.7859101,
+                "keys": [
+                  "log_pb",
+                  "status_code",
+                  "status_msg"
+                ],
+                "nested_structure": {
+                  "log_pb": {
+                    "type": "dict",
+                    "hash": "81c6359a471b03ca",
+                    "timestamp": 1781828079.7869112,
+                    "keys": [
+                      "impr_id"
+                    ],
+                    "nested_structure": {
+                      "impr_id": {
+                        "type": "str",
+                        "hash": "a8c113176a9a6dc1",
+                        "timestamp": 1781828079.7869112,
+                        "value": "202606190814395D9952DC4026CE128B2F"
+                      }
+                    }
+                  },
+                  "status_code": {
+                    "type": "int",
+                    "hash": "5feceb66ffc86f38",
+                    "timestamp": 1781828079.7869112,
+                    "value": 0
+                  },
+                  "status_msg": {
+                    "type": "str",
+                    "hash": "98405a6a3388c2a6",
+                    "timestamp": 1781828079.7869112,
+                    "value": "url doesn't match"
+                  }
+                }
+              }
+            },
+            "success": true
+          },
+          {
+            "step": "process_patterns",
+            "patterns": {
+              "marker": {
+                "marker_id": "main_marker",
+                "constants": [
+                  {
+                    "name": "base_value",
+                    "value": 1.0,
+                    "hash": "e4c2e8edac362acab7123654b9e73432"
+                  },
+                  {
+                    "name": "multiplier",
+                    "value": 2.0,
+                    "hash": "d1bd83a33f1a841ab7fda32449746cc4"
+                  }
+                ],
+                "created_at": 1781828080.0547862
+              },
+              "isolated_patterns": [],
+              "structure_keys": [
+                "log_pb",
+                "status_code",
+                "status_msg"
+              ]
+            },
+            "success": true
+          },
+          {
+            "step": "detect_neural_matches",
+            "matches": [],
+            "success": true
+          },
+          {
+            "step": "extract_entropy_subspace",
+            "extraction": {
+              "subspace_id": "main_subspace",
+              "total_entropy": 3.1036434684967853,
+              "elapsed_time": 10.0,
+              "extraction_rate": 0.3103643468496785,
+              "timestamp": 1781828080.0578396
+            },
+            "total_entropy": 3.1036434684967853,
+            "success": true
+          },
+          {
+            "step": "run_pattern_iteration",
+            "iteration_data": {
+              "iteration_id": "main_iteration",
+              "total_cycles": 200,
+              "elapsed_time": 0.03309273719787598,
+              "influenced_values": [
+                1.4648321975895418,
+                0.937603409158609,
+                0.5469962991980688,
+                0.4007709053120186,
+                0.33584084529283365,
+                0.3243876725002172,
+                0.22779728520719258,
+                0.23879374410650364,
+                0.1753118900169505,
+                0.15229597275663392
+              ],
+              "timestamp": 1781828080.0924385
+            },
+            "persona_categories": [
+              "persona_1",
+              "persona_2"
+            ],
+            "success": true
+          },
+          {
+            "step": "compress_and_order_data",
+            "compressed_block": {
+              "seed": "8adf0397bbddc2cd",
+              "original_size": 351,
+              "compressed_size": 232,
+              "compressed_data": "789c3590596ac3500c45b712fc5dcc95f434752ba50493b86070061aa7504af75e3d43ffc4e14857d2cfb06cf3e7b42db7eb71390faf87e1322d55fec3e1e5306cb76d5a8fa7efd33a3fca60a0e0bc4ef7c77c3e6ecb652e8811224876714a0fd78c9296ebc7fa9cafa7f2bea6aa7afb1b8dcd5a0897a791daa84c8c296e9086240d4376a4cd328d33290316bbd6007724548841619d89683444534e0e11d31d729370735680c9b93366f7740e65d496acfb442eadc25b239842ac75485e01140990a5629f48ca9c5afdae6622c9effd3775fe639b2ef7ba8c3c283810f58cecf1fafb0768bd55ca",
+              "compression_ratio": 0.6609686609686609,
+              "timestamp": 1781828080.0950315,
+              "block_type": "pattern_data"
+            },
+            "block_id": "block_1781828080",
+            "success": true
+          },
+          {
+            "step": "create_isolated_json",
+            "categories_locked": [
+              "persona_1",
+              "persona_2"
+            ],
+            "success": true
+          },
+          {
+            "step": "process_weights",
+            "weight_classes": [
+              "weight_persona_1",
+              "weight_persona_2"
+            ],
+            "success": true
+          }
+        ],
+        "timestamp": 1781828079.150202
+      },
+      "weight_states": {},
+      "pattern_states": {},
+      "created_at": 1781828080.190036,
+      "saved_at": 1781828080.7193098
+    }
+  },
+  "active_point": "memory_1781828080",
+  "saved_at": 1781828080.7193098
+}
