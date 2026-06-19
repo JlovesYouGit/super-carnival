@@ -355,3 +355,70 @@ print(f"Reassembled {OUT} from {len(index['fragments'])} fragments")
 - `retrieve_mirror()` uses a **0.8 character-similarity threshold** by default, permitting fuzzy lookup without full decode.
 - The scanner sends **raw HTTP requests** only to user-specified targets. No hardcoded external URLs are accessed unless explicitly scanned.
 - This model mirrors Xbox Delivery Optimization: peer-to-peer fragment discovery and local reassembly, but uses **hash proximity** instead of centralized manifest files.
+
+- .env DUMMY_HTTP_ENDPOINT= 
+EXTERNAL_LOG_ENDPOINT=
+VERIFICATION_CODE_LENGTH=5
+MAX_CONNECTIONS=999999999999999999999999
+CONNECTION_TIMEOUT=0
+# Network Traffic Management System
+
+A comprehensive network traffic management system with DNS metering, POST request handling, allowlist management, traffic routing, and connection pooling.
+
+## Features
+
+- DNS broadcast metering with pin count tracking
+- POST request redirect and save system
+- Allowlist item class order counting
+- Traffic flow point graph routing
+- Ping count directive classes
+- External leak detection with handshake listener
+- Async connection pool with auto-swapping
+- 5-digit verification codes for external hosts
+- External HTTPS endpoint logging
+- Payload decode/recode machine
+- POST request swap-reload until accept
+- Sequence lock pattern repeater
+- Server update order via recode
+
+## Setup
+
+### Windows
+1. Run setup script:
+```cmd
+setup.bat
+```
+
+Or manually:
+```cmd
+python -m venv venv
+venv\Scripts\activate
+pip install -r requirements.txt
+copy .env.example .env
+python main.py
+```
+
+### Linux/Mac
+1. Run setup script:
+```bash
+chmod +x setup.sh
+./setup.sh
+```
+
+Or manually:
+```bash
+python -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+cp .env.example .env
+python main.py
+```
+
+## Environment Variables
+
+- `DUMMY_HTTP_ENDPOINT`: Dummy HTTP endpoint for testing
+- `EXTERNAL_LOG_ENDPOINT`: External HTTPS endpoint for logging
+- `VERIFICATION_CODE_LENGTH`: Length of verification codes (default: 5)
+- `MAX_CONNECTIONS`: Maximum connection pool size
+- `CONNECTION_TIMEOUT`: Connection timeout in seconds
+#
